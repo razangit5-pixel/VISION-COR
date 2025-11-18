@@ -1,5 +1,6 @@
-## VISION-COR
+## VISION-COR  
 A Comprehensive Approach to Automated Corrosion Detection in Visual Inspections
 
-• Model development using deep learning and computer vision techniques.
-• Model deployment and website development using Django
+• Developed deep learning models using advanced computer vision techniques for accurate corrosion detection.  
+• Deployed the model and built the full web application using Django for seamless user interaction.
+
